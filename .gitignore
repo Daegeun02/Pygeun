@@ -1,1 +1,6 @@
 .DS_Store
+build/*
+dist/*
+Pygeun.egg-info/*
+setup.py
+upload.sh

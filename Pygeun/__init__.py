@@ -1,3 +1,7 @@
+__version__ = '0.0.4'
+
+
+
 ## optimization algorithm's are implemented in this package
 from .newton_raphson       import NewtonRaphson
 from .levenberg_marquardt  import LevenbergMarquardt
